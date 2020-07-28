@@ -1,2 +1,2 @@
-# Environment-Mapping
-Environment-Mapping preformed on a Utah teapot 3D model using Javascripit &amp; WebGL
+# Physics-Simulation
+Physics Engine Interactive Animation using Javascript &amp; WebGL
